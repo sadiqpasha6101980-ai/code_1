@@ -1,2 +1,5 @@
 x = input('Hi please enter the name:').upper()
-print('hello ' + x)
+if x == 'SAJJAD':
+  print('hello the genius ' + x)
+else:
+  print('hello ' + x)
